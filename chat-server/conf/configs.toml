@@ -1,0 +1,8 @@
+[ws]
+host=""
+port=8000
+conn=500000
+
+[grpc]
+host=""
+port=8010
