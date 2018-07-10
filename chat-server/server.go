@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	conf "./configure"
-	connection "./connection"
+	conf "github.com/thuannv/go-websocket/chat-server/configure"
+	connection "github.com/thuannv/go-websocket/chat-server/connection"
 )
 
 func main() {
